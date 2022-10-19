@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1 class="h2" style="text-align:center">Home</h1>
+      <h1 class="h3" style="text-align:center">Home</h1>
       <input class="form-control" type="text" />
     </div>
 </template>
